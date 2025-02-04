@@ -1,5 +1,7 @@
 // Смородиновое тремоло
 
+// тест для Ардуино-проекта
+
 #include<iostream>
 
 using namespace std;
